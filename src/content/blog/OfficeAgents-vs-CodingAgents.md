@@ -3,9 +3,9 @@ title: "办公 Agent 与编程 Agent"
 titleEn: "Office Agents vs. Coding Agents"
 description: "最重要的区别在于：使用者是否需要具备开发能力。"
 descriptionEn: "The key difference is whether users need a technical background to use them."
-pubDate: "Jul 08 2025"
-category: Notes
-heroImage: "/blog-placeholder-3.jpg"
+pubDate: "May 08 2025"
+category: Tech
+heroImage: "/blog-tech-1.jpg"
 draft: false
 ---
 有人认为，Agent 本质上都是通用的，没有必要专门区分办公 Agent 和编程 Agent。但我认为，两者确实有明显区别。最重要的区别在于：使用者是否需要具备开发能力。

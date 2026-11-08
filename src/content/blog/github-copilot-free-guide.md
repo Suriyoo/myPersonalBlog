@@ -3,9 +3,9 @@ title: "GitHub Copilot 免费使用指南"
 titleEn: "A Guide to Using GitHub Copilot for Free"
 description: "介绍 GitHub Copilot 免费计划、学生开发者权益、额度使用方法，以及与 OpenClaw 集成时的注意事项。"
 descriptionEn: "An overview of GitHub Copilot's free plan, student benefits, ways to make the most of usage limits, and considerations for OpenClaw integrations."
-pubDate: "2026-11-06"
+pubDate: "2025-01-06"
 category: Tech
-heroImage: "/blog-placeholder-5.jpg"
+heroImage: "/blog-tech-4.jpg"
 draft: false
 ---
 

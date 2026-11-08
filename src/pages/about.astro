@@ -17,7 +17,7 @@ import { profile } from '../data/profile';
 			<header class="about-page-heading">
 				<p class="about-eyebrow">ABOUT / PERSONAL STORY</p>
 				<h1>关于我</h1>
-				<p>这里记录个人介绍、兴趣与近期关注。具体资料可在 profile 数据文件中补充。</p>
+				<p>这是一个外向i人的博客 如果你找到了这里 嘘...</p>
 			</header>
 
 			<section class="about-introduction" aria-labelledby="about-introduction-title">
@@ -45,11 +45,11 @@ import { profile } from '../data/profile';
 
 			<section class="about-section" aria-labelledby="about-me-title">
 				<header class="about-section-heading">
-					<h2 id="about-me-title">关于我</h2>
+					<h2 id="about-me-title">悄悄话</h2>
 					<p>ABOUT ME</p>
 				</header>
 				<div class="about-section-body">
-					<p>个人经历和关注领域尚待补充。</p>
+					<p>已被确认为猫猫：每天都想睡睡睡睡睡睡睡睡觉 // 总是想摸鱼 // 内心偷偷计划毁灭世界 </p>
 					<ul class="interest-list">
 						{profile.interests.map((interest) => <li>{interest}</li>)}
 					</ul>
@@ -112,8 +112,8 @@ import { profile } from '../data/profile';
 
 			<section class="about-section" aria-labelledby="contact-title">
 				<header class="about-section-heading">
-					<h2 id="contact-title">联系我</h2>
-					<p>GET IN TOUCH</p>
+					<h2 id="contact-title">找到我</h2>
+					<p>FIND ME</p>
 				</header>
 				<div class="about-section-body contact-links">
 					{
@@ -305,7 +305,9 @@ import { profile } from '../data/profile';
 
 	.journey-list {
 		margin: 0;
-		padding-left: var(--space-5);
+		margin: 0;
+		padding-left: 0;
+		list-style: none;
 	}
 
 	.journey-list li {

@@ -4,8 +4,8 @@ titleEn: "The Illusion of Understanding First-Hand Information"
 description: "接触一手信息并不代表理解其全貌。理解信息还需要必要的背景、专业知识与解释。"
 descriptionEn: "Accessing first-hand information does not mean understanding the whole picture. Interpretation requires context, expertise, and explanation."
 pubDate: "2025-09-27"
-category: Notes
-heroImage: "/blog-placeholder-4.jpg"
+category: Tech
+heroImage: "/blog-tech-3.jpg"
 draft: false
 ---
 
